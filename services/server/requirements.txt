@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+flask-migrate
+Flask-SQLAlchemy
+gunicorn
+psycopg2-binary

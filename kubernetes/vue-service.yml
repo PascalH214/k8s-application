@@ -4,7 +4,6 @@ metadata:
   name: vue
   labels:
     service: vue
-  name: vue
 spec:
   selector:
     app: vue

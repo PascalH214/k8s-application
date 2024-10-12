@@ -24,7 +24,7 @@ spec:
         resources: {}
         terminationMessagePath: /dev/termination-log
         terminationMessagePolicy: File
-      dnsPolicy: ClusterFirst
+      dnsPolicy: Default
       restartPolicy: Always
       schedulerName: default-scheduler
       securityContext: {}
